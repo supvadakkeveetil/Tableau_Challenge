@@ -7,6 +7,7 @@ Link to Tableau Public
 (https://public.tableau.com/app/profile/supriya.vadakkeveetil/viz/CityBike_Story_17073746868780/Trips_Story)
 (https://public.tableau.com/app/profile/supriya.vadakkeveetil/viz/CityBike_Story_17073746868780/Stations_Story)
 
+The Markdown file(CityBike_Story) has been attached to the Github Repo
 ## Project Description
 To Create a Tableau Dashboard and Story using the CitiBike Data
 
