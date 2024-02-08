@@ -2,8 +2,7 @@
 
 Link to Tableau Public 
 (https://public.tableau.com/app/profile/supriya.vadakkeveetil/viz/CityBike_Story_17073746868780/Map_Story)
-[
-]
+
 (https://public.tableau.com/app/profile/supriya.vadakkeveetil/viz/CityBike_Story_17073746868780/Trips_Story)
 (https://public.tableau.com/app/profile/supriya.vadakkeveetil/viz/CityBike_Story_17073746868780/Stations_Story)
 
